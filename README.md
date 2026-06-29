@@ -1,4 +1,4 @@
-# Cheetah — RAG Agent with LangGraph
+# Adaptive Customer Support Agent — Corrective-RAG 
 
 A **Corrective RAG (CRAG)** agent that retrieves documents, grades relevance, falls back to web search, and generates answers using Google Gemini.
 
