@@ -18,7 +18,8 @@ graph LR
 
 1. **Clone and install:**
    ```bash
-   cd cheetah
+   git clone https://github.com/Adithya-J05/Adaptive-Customer-Support-Agent---Corrective-RAG.git
+   cd Adaptive-Customer-Support-Agent---Corrective-RAG
    pip install -r requirements.txt
    ```
 
